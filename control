@@ -1,0 +1,9 @@
+Package: com.i0sa.passcoderecorder
+Name: PasscodeRecorder
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Record and track passcode attempts !
+Maintainer: Osama Gamal
+Author: Osama Gamal
+Section: Tweaks

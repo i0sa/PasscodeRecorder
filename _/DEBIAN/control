@@ -1,0 +1,10 @@
+Package: com.i0sa.passcoderecorder
+Name: PasscodeRecorder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Osama Gamal
+Author: Osama Gamal
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 224

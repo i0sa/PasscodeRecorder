@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = passcoderecorderprefs;
+	cell = PSLinkCell;
+	detail = passcoderecorderprefsListController;
+	icon = passcoderecorderprefs.png;
+	isController = 1;
+	label = PasscodeRecorder;
+    };
+}
